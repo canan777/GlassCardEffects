@@ -9,15 +9,25 @@
 
 ## ✨ Highlights:
 
-🎈 Balloon-Themed Header and Sections: Instantly immerses visitors in the spirit of Cappadocia
+🎈 Balloon-Themed Header and Sections:
 
-## 🌄 Hero / Banner Area: Captivating title and short introduction texts
+Instantly immerses visitors in the spirit of Cappadocia
 
-## 🧭 Clean Navigation: Simple, intuitive, and fast
+## 🌄 Hero / Banner Area: 
 
-## 📱 Responsive Layout: Consistent display across mobile, tablet, and desktop (powered by CSS)
+Captivating title and short introduction texts
 
-## 🎨 Elegant Typography & Colors: Readable, airy, and perfectly suited for tourism promotion
+## 🧭 Clean Navigation: 
+
+Simple, intuitive, and fast
+
+## 📱 Responsive Layout:
+ 
+Consistent display across mobile, tablet, and desktop (powered by CSS)
+
+## 🎨 Elegant Typography & Colors: 
+
+Readable, airy, and perfectly suited for tourism promotion
 
 ## 🛠 Technologies Used:
 
