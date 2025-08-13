@@ -7,25 +7,25 @@
 
 ✅With its fairy chimneys, underground cities, and colorful hot air balloons filling the sky at sunrise, Cappadocia is a unique land where nature and history embrace. 🎈⛰️🏛️
 
-## ✨ Highlights:
+### ✨ Highlights:
 
 🎈 Balloon-Themed Header and Sections:
 
 Instantly immerses visitors in the spirit of Cappadocia
 
-## 🌄 Hero / Banner Area: 
+### 🌄 Hero / Banner Area: 
 
 Captivating title and short introduction texts
 
-## 🧭 Clean Navigation: 
+### 🧭 Clean Navigation: 
 
 Simple, intuitive, and fast
 
-## 📱 Responsive Layout:
+### 📱 Responsive Layout:
  
 Consistent display across mobile, tablet, and desktop (powered by CSS)
 
-## 🎨 Elegant Typography & Colors: 
+### 🎨 Elegant Typography & Colors: 
 
 Readable, airy, and perfectly suited for tourism promotion
 
